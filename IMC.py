@@ -7,4 +7,5 @@ print("IMC: ", fImc)
 print("DE ACORDO COM O ICM: ")  
 
 print("=> Muito abaixo do peso: ", fImc < 17)
+print("=> Peso abaixo do normal: ", fImc >= 17 and fImc < 18.5)
 
