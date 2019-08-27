@@ -1,5 +1,5 @@
-fAltura = 1.80
-fPeso = 72.0
+fAltura = float(input("Digite a altura: "))
+fPeso = float(input("Digite o peso: "))
 
 fImc = fPeso/(fAltura**2)
 print("IMC: ", fImc)
