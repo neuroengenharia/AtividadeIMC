@@ -12,7 +12,7 @@ elif fImc >= 17 and fImc < 18.5:
     print("=> Peso abaixo do normal!")
 elif fImc >= 18.5 and fImc < 25.0:
     print("=> Peso normal!")
-elif fImc >= 25 and fImc <= 30:
+elif fImc >= 25 and fImc < 30:
     print ("=> Acima do peso normal!")
 else:
     print("=> Muito acima do peso!")
