@@ -9,9 +9,10 @@ Foram consideradas as seguintes condições:
 - Se o IMC é maior ou igual a 25.0 e menor que 30.0, o indivíduo está com o peso acima do normal.
 - Se o IMC é maior ou igual a 30.0, o indivíduo está muito acima do peso.
 
-#WIKI
+# WIKI
 
 Para mais informações sobre o projeto, acesse a [Wiki](https://github.com/neuroengenharia/AtividadeIMC/wiki).
 
-#REFERÊNCIAS
+# REFERÊNCIAS
+
 [(Link 1)](http://www.saude.gov.br/artigos/804-imc/40509-imc-em-adultos)
