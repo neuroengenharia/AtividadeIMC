@@ -9,6 +9,27 @@ Foram consideradas as seguintes condições:
 - Se o IMC é maior ou igual a 25.0 e menor que 30.0, o indivíduo está com o peso acima do normal.
 - Se o IMC é maior ou igual a 30.0, o indivíduo está muito acima do peso.
 
+# RECURSOS NECESSÁRIOS
+Para contribuir com o projeto, tudo deve funcionar corretamente. Para isso, certifique-se que você possuí instalados:
+
+- Python 3.7.4
+- Git
+- Visual Studio Code
+- Github
+
+# FAZER O FORK
+
+- Faça o login na sua conta do GITHUB
+- Acesse o projeto: [(LINK DO PROJETO)](https://github.com/neuroengenharia/AtividadeIMC/)
+- Clique em Fork
+- Aguarde o processo ser concluído
+- Você será redirecionado para uma cópia do projeto em seu GITHUB
+
+# FAZER O CLONE
+Para que você possa colaborar no desenvolvimento do projeto é necessário fazer o clone,ou seja, criar uma cópia local em sua máquina. Para fazer o clone use o seguinte comando no terminal:
+
+- git clone https://github.com/SubstituaPeloSeuUsuário/AtividadeCaixaComportamental
+
 # WIKI
 
 Para mais informações sobre o projeto, acesse a [Wiki](https://github.com/neuroengenharia/AtividadeIMC/wiki).
