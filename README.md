@@ -28,7 +28,7 @@ Para contribuir com o projeto, tudo deve funcionar corretamente. Para isso, cert
 # FAZER O CLONE
 Para que você possa colaborar no desenvolvimento do projeto é necessário fazer o clone,ou seja, criar uma cópia local em sua máquina. Para fazer o clone use o seguinte comando no terminal:
 
-- git clone https://github.com/SubstituaPeloSeuUsuário/AtividadeCaixaComportamental
+- git clone https://github.com/SubstituaPeloSeuUsuário/AtividadeIMC
 
 # WIKI
 
